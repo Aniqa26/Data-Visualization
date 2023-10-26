@@ -5,4 +5,4 @@ The objective is to improve an existing data visualization. Select an infographi
 
 ## Solution 
 
-<embed src="https://github.com/Aniqa26/Data-Visualization/blob/main/Data%20Visualization%20Critique%20%26%20Redesign/Data%20Viz%20Redesign%20-%20Aniqa%20Riasat.pdf" type="application/pdf" />
+See the final redesign [here](Data%20Viz%20Redesign%20-%20Aniqa%20Riasat.pdf).
