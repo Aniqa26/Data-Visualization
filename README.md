@@ -3,7 +3,7 @@
 This repository includes projects related to Data Visualization that I completed during my coursework. 
 
 ## 📚 Table of Contents
-- [Data Visualization Critique](#Data-Visualization-Critique)
+- [Data Visualization Critique](#data-visualization-critique)
 - [Data Visualization Critique & Redesign](#data-visualization-critique--redesign)
 
 ## Data Visualization Critique
